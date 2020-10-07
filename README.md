@@ -4,9 +4,7 @@ Hope you're all doing good and listening to some rock and roll! 🤘🏻
 
 Here you'll find useful information about me.
 
-*** 
-
-<br />
+***<br />
 
 ## I'm Giovani, a developer ~~and a cool rockstart~~ born in 2001.
 

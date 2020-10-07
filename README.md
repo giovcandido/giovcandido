@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hey there. What's happening? 
 
-<!--
-**giovcandido/giovcandido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hope you're all doing good and listening to some rock and roll! 🤘🏻
 
-Here are some ideas to get you started:
+Here you'll find useful information about me.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*** 
+
+<br />
+
+## I'm Giovani, a developer ~~and a cool rockstart~~ born in 2001.
+
+There is more of me for you to know. But, wait a while, I'm finishing it. 🤷🏼‍♂️
+
+<br />
+
+While you wait, have fun with Hulk trying to code. 👇🏻
+
+<img src="https://media.giphy.com/media/ZZg7C3MEglarBUqcoE/giphy.gif" width="20%">
+
+> The trials you face will introduce you to your strengths. - Epictetus

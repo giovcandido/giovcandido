@@ -18,4 +18,6 @@ While you wait, have fun with Hulk trying to code. 👇🏻
 
 <img src="https://media.giphy.com/media/ZZg7C3MEglarBUqcoE/giphy.gif" width="20%">
 
+<br />
+
 > The trials you face will introduce you to your strengths. - Epictetus
